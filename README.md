@@ -5,13 +5,13 @@
 Either run
 
 ```
-$ php composer.phar require kucha/ueditor "*"
+$ php composer.phar require weison-tech/ueditor "*"
 ```
 
 or add
 
 ```
-"kucha/ueditor": "*"
+"weison-tech/ueditor": "*"
 ```
 
 to the ```require``` section of your `composer.json` file.
@@ -24,7 +24,7 @@ controller:
 public function actions()
 {
     return [
-        'upload' => [
+        'ue-upload' => [
             'class' => 'kucha\ueditor\UEditorAction',
         ]
     ];
