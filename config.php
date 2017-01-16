@@ -195,7 +195,7 @@ return [
     /* 列出指定目录下的文件 */
     "fileManagerActionName"   => "listfile",
     /* 执行文件管理的action名称 */
-    "fileManagerListPath"     => "/ueditor/php/upload/file/",
+    "fileManagerListPath"     => "/uploads/ueditor",
     /* 指定要列出文件的目录 */
     "fileManagerUrlPrefix"    => "",
     /* 文件访问路径前缀 */
