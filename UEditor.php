@@ -34,7 +34,7 @@ class UEditor extends InputWidget
                 $this->attribute) : $this->id;
         }
         $this->_options = [
-            'serverUrl' => Url::to(['upload']),
+            'serverUrl' => Url::to(['ue-upload']),
             'initialFrameWidth' => '100%',
             'initialFrameHeight' => '400',
             'lang' => (strtolower(Yii::$app->language) == 'en-us') ? 'en' : 'zh-cn',
