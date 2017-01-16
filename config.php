@@ -175,7 +175,7 @@ return [
     /* 列出指定目录下的图片 */
     "imageManagerActionName"  => "listimage",
     /* 执行图片管理的action名称 */
-    "imageManagerListPath"    => "/ueditor/php/upload/image/",
+    "imageManagerListPath"    => "/uploads/ueditor",
     /* 指定要列出图片的目录 */
     "imageManagerListSize"    => 20,
     /* 每次列出文件数量 */
