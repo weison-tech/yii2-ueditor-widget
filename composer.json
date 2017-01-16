@@ -1,11 +1,11 @@
 {
-    "name": "sheng/ueditor",
+    "name": "weison-tech/ueditor",
     "description": "desc",
     "license": "MIT",
     "authors": [
         {
-            "name": "BigKuCha",
-            "email": "nevermore1989@vip.qq.com"
+            "name": "xiaomalover",
+            "email": "xiaomalover@gmail.com"
         }
     ],
     "minimum-stability": "stable",
